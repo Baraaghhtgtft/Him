@@ -1,4 +1,4 @@
-const gamestats = [`#help`,`#bot`,`#`,`#`]
+const gamestats = [`باليز`,`لا`,`باليز`,`لا`,`باليز`,`K`]
 var index = 0
 var timer = 10 // الوقت بالثواني لتغير الستريمنق
 client.on("ready", ()=> {
